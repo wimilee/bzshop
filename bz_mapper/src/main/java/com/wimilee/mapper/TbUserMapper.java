@@ -2,6 +2,8 @@ package com.wimilee.mapper;
 
 import com.wimilee.pojo.TbUser;
 import com.wimilee.pojo.TbUserExample;
+import org.apache.ibatis.annotations.Param;
+
 import java.util.List;
 
 
